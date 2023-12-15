@@ -1,0 +1,95 @@
+{   "2024":[
+        {
+            "idx": "C10",
+            "title": "Hot or Cold? Adaptive Sampling Method for Code Generation with Large Language Models",
+            "authors": "Yuqi Zhu, Jia Lee, Ge Li, YunFei Zhao, <b>Jia Li</b>, Zhi Jin, and Hong Mei",
+            "venue": "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)",
+            "status": "Accepted"
+        }
+    ],
+    "2023":[
+        {
+            "idx": "C9", 
+            "title": "ZC3: Zero-Shot Cross-Language Code Clone Detection",
+            "authors": "<b>Jia Li</b>, Chongyang Tao, Zhi Jin, Fang Liu, Jia Allen Li, Ge Li",
+            "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
+            "status":"Accepted"
+        },
+        {
+            "idx": "C8",
+            "title": "Syntax and Domain Aware Model for Unsupervised Program Translation",
+            "authors": "Fang Liu, <b>Jia Li</b>, Li Zhang",
+            "venue": "45th ACM/IEEE International Conference on Software Engineering （ICSE 2023)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C7",
+            "title": "MCodeSearcher: Multi-View Contrastive Learning for Code Search",
+            "authors": "<b>Jia Li</b>, Fang Liu, Jia Lee, Yunfei Zhao, Ge Li, and Zhi Jin",
+            "venue": "The 14th Asia-Pacific Symposium on Internetware （Internetware 2023)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "J2",
+            "title": "WELL: Applying Bug Detectors to Bug Localization via Weakly Supervised Learning",
+            "authors": "Huangzhao Zhang, Zhuo Li, <b>Jia Li</b>, Zhi Jin, and Ge Li",
+            "venue": "Journal of Systems and Software (JSS 2023)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "J1",
+            "title": "Deep Learning for Code Generation: A Survey",
+            "authors": "Huangzhao Zhang, Kechi Zhang, Zhuo Li, <b>Jia Li</b>, Jia Lee, Yongmin Li, Yunfei Zhao, Fang Liu, Ge Li, and Zhi Jin",
+            "venue": "Science China Information Science (SCIS 2023)",
+            "status": "Accepted"
+        }
+    ],
+    "2022":[
+          {
+            "idx": "C6",
+            "title": "SK2: Integrating Implicit Sentiment Knowledge and Explicit Syntax Knowledge for Aspect-Based Sentiment Analysis",
+            "authors": "<b>Jia Li</b>, Yuyuan Zhao, Zhi Jin, Ge Li, Tao Shen, Zhengwei Tao, and Chongyang Tao",
+            "venue": "The 31st ACM International Conference on Information & Knowledge Management (CIKM 2022)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C5",
+            "title": "Unsupervised Cross-Domain Adaptation for Response Selection Using Self-Supervised and Adversarial Training",
+            "authors": "<b>Jia Li</b>, Chongyang Tao, Huang Hu, Can Xu, Yining Chen, Daxin Jiang",
+            "venue": "The 15th ACM International Conference on Web Search and Data Mining (WSDM 2022)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C4",
+            "title": "BNU: A Balance-Normalization-Uncertainty Model for Incremental Event Detection",
+            "authors": "<b>Jia Li</b>, Yunyan Zhang, Yifan Yang, Zhicheng An, and Yefeng Zheng",
+            "venue": "The 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022)",
+            "status": "Accepted"
+        }
+    ],
+    "2021":[
+        {
+            "idx": "C3",
+            "title": "Tuta: Tree-based Transformers for Generally Structured Table Pre-training",
+            "authors": "Zhiruo Wang, HaoyuDong, Ran Jia, <b>Jia Li</b>, Zhiyi Fu, Shi Han, Dongmei Zhang",
+            "venue": "The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)",
+            "status": "Accepted"
+        }
+    ],
+    "2019": [
+        {   
+            "idx": "C2",
+            "title": "Evaluating and Enhancing the Robustness of Retrieval-based Dialogue Systems with Adversarial Examples",
+            "authors": "<b>Jia Li</b>, Chongyang Tao, Nanyun Peng, Wei Wu, Dongyan Zhao, Rui Yan",
+            "venue": "The 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C1",
+            "title": "Sampling matters! An Empirical Study of Negative Sampling Strategies for Learning of Matching Models in Retrieval-based Dialogue Systems",
+            "authors": "<b>Jia Li</b>, Chongyang Tao, Nanyun Peng, Wei Wu, Dongyan Zhao, and Rui Yan",
+            "venue": "The 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019)",
+            "status": "Accepted"
+        }
+    ]
+}
